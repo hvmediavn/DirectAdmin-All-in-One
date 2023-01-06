@@ -1,1 +1,1 @@
-# Finaly-All-In-One-DirectAdmin
+# DirectAdmin-All-in-One-Final
